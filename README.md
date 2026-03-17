@@ -44,9 +44,11 @@ UI: Bootstrap 5, FontAwesome, Chart.js, View Components, DTOs
 
 <img width="1024" height="507" alt="image" src="https://github.com/user-attachments/assets/48e74691-061c-4a70-9c3b-3368d4d667e4" />
 
+<img width="1864" height="825" alt="image" src="https://github.com/user-attachments/assets/28a4d711-f9ea-4520-8890-dcc8c10aec35" />
+
 <img width="1585" height="869" alt="image" src="https://github.com/user-attachments/assets/cf493f84-3737-4bfe-96f1-65f3ebbdc5e2" />
 
-<img width="1864" height="825" alt="image" src="https://github.com/user-attachments/assets/28a4d711-f9ea-4520-8890-dcc8c10aec35" />
+<img width="1549" height="872" alt="image" src="https://github.com/user-attachments/assets/567d5f84-89d4-46b7-a7d5-780d76ca4a1a" />
 
 <img width="1910" height="959" alt="image" src="https://github.com/user-attachments/assets/9088a03f-e25e-4417-9ccf-41f3411bd92b" />
 
