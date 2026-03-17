@@ -82,7 +82,7 @@ namespace ApiProje.WebUI.Controllers
             var value = JsonConvert.DeserializeObject<GetMessageByIdDto>(jsonData);
             prompt = value.MessageDetails; //müşterinin gönderdiği mesajı prompt olarak alıyoruz
 
-            var apiKey = "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";
+            var apiKey = "";
             using var client2 = new HttpClient();
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey); //Kimlik kontrolü yapıyoruz
 
