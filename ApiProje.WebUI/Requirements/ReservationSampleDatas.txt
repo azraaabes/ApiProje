@@ -1,0 +1,102 @@
+﻿[
+  {
+    "nameSurname": "Ahmet Yılmaz",
+    "email": "ahmetyilmaz@gmail.com",
+    "phoneNumber": "05324567891",
+    "reservationDate": "2026-03-10T18:00:00.000Z",
+    "reservationTime": "19:00",
+    "countofPeople": 2,
+    "message": "Akşam yemeği için pencere kenarında bir masa rica ediyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Elif Demir",
+    "email": "elifdemir@hotmail.com",
+    "phoneNumber": "05436781234",
+    "reservationDate": "2026-03-11T18:00:00.000Z",
+    "reservationTime": "20:00",
+    "countofPeople": 4,
+    "message": "Arkadaşlarımla doğum günü kutlaması yapacağız.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Mehmet Kaya",
+    "email": "mehmetkaya@yahoo.com",
+    "phoneNumber": "05523456789",
+    "reservationDate": "2026-03-12T18:00:00.000Z",
+    "reservationTime": "19:30",
+    "countofPeople": 3,
+    "message": "Sessiz bir masa rica ediyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Zeynep Aydın",
+    "email": "zeynepaydin@gmail.com",
+    "phoneNumber": "05336784521",
+    "reservationDate": "2026-03-12T18:00:00.000Z",
+    "reservationTime": "18:30",
+    "countofPeople": 2,
+    "message": "Yıldönümümüz için rezervasyon yaptırmak istiyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Can Özkan",
+    "email": "canozkan@gmail.com",
+    "phoneNumber": "05429876543",
+    "reservationDate": "2026-03-13T18:00:00.000Z",
+    "reservationTime": "20:30",
+    "countofPeople": 5,
+    "message": "Aile yemeği için rezervasyon oluşturuyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Buse Çelik",
+    "email": "busecelik@hotmail.com",
+    "phoneNumber": "05517894562",
+    "reservationDate": "2026-03-14T18:00:00.000Z",
+    "reservationTime": "19:15",
+    "countofPeople": 2,
+    "message": "Romantik bir akşam yemeği için masa ayarlayabilir misiniz?",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Emre Arslan",
+    "email": "emrearslan@gmail.com",
+    "phoneNumber": "05351234567",
+    "reservationDate": "2026-03-15T18:00:00.000Z",
+    "reservationTime": "18:45",
+    "countofPeople": 6,
+    "message": "Arkadaş grubumuzla geleceğiz.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Derya Şahin",
+    "email": "deryasahin@yahoo.com",
+    "phoneNumber": "05442345678",
+    "reservationDate": "2026-03-15T18:00:00.000Z",
+    "reservationTime": "21:00",
+    "countofPeople": 3,
+    "message": "Menü hakkında bilgi almak istiyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Burak Koç",
+    "email": "burakkoc@gmail.com",
+    "phoneNumber": "05533456789",
+    "reservationDate": "2026-03-16T18:00:00.000Z",
+    "reservationTime": "19:45",
+    "countofPeople": 4,
+    "message": "İş yemeği için rezervasyon yapıyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  },
+  {
+    "nameSurname": "Selin Yılmaz",
+    "email": "selinyilmaz@hotmail.com",
+    "phoneNumber": "05367654321",
+    "reservationDate": "2026-03-17T18:00:00.000Z",
+    "reservationTime": "20:15",
+    "countofPeople": 2,
+    "message": "Sessiz bir köşe masa rica ediyorum.",
+    "reservationStatus": "Onay Bekliyor"
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+  {
+    "nameSurname": "Ahmet Yılmaz",
+    "title": "Yazılım Mühendisi",
+    "comment": "Restoranın atmosferi oldukça sıcak ve davetkardı. Sipariş ettiğimiz yemekler hızlı servis edildi ve lezzeti gerçekten beklentimizin üzerindeydi. Özellikle şefin özel sosları harikaydı.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Elif Demir",
+    "title": "Grafik Tasarımcı",
+    "comment": "Sunumlar çok özenli ve profesyoneldi. Çalışanlar son derece ilgili ve güler yüzlüydü. Arkadaşlarımla keyifli bir akşam geçirdik, kesinlikle tekrar geleceğim.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Mehmet Kaya",
+    "title": "Proje Yöneticisi",
+    "comment": "Yemeklerin kalitesi ve restoranın temizliği gerçekten etkileyiciydi. Servis hızlı ve düzenliydi. Böyle kaliteli bir hizmet almak bizi çok memnun etti.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Zeynep Aydın",
+    "title": "Mimar",
+    "comment": "Ambiyans, müzik ve yemeklerin uyumu mükemmeldi. Özellikle ana yemekler çok lezzetliydi. Özel gün kutlamaları için ideal bir mekan.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Can Özkan",
+    "title": "Finans Uzmanı",
+    "comment": "Fiyat ve performans açısından oldukça başarılı bir restoran. Personelin ilgisi ve servis kalitesi bizi çok etkiledi. Herkese gönül rahatlığıyla tavsiye ederim.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Buse Çelik",
+    "title": "İnsan Kaynakları Uzmanı",
+    "comment": "Lezzetli yemekler, kaliteli servis ve huzurlu bir ortam arayanlar için harika bir seçim. Denediğimiz her şey çok başarılıydı.",
+    "imageUrl": "test"
+  }
+]

@@ -1,0 +1,39 @@
+﻿/yummy-red-1.0.0/assets/img/events-1.jpg
+
+[
+  {
+    "title": "Doğum Günü Organizasyonu",
+    "description": "Sevdiklerinizle birlikte unutulmaz bir doğum günü kutlaması yapmanız için özel masa süslemeleri, kişiye özel pasta seçenekleri ve profesyonel servis ekibimizle kusursuz bir deneyim sunuyoruz.",
+    "imageUrl": "test",
+    "status": true,
+    "price": 2500
+  },
+  {
+    "title": "Kurumsal Toplantı ve İş Yemekleri",
+    "description": "İş toplantılarınız ve kurumsal yemek organizasyonlarınız için sessiz, konforlu ve profesyonel bir ortam sağlıyoruz. Özel menü seçenekleri ve hızlı servis ile iş görüşmelerinizi keyifli hale getiriyoruz.",
+    "imageUrl": "test",
+    "status": true,
+    "price": 4000
+  },
+  {
+    "title": "Yıldönümü Kutlaması",
+    "description": "Evlilik yıldönümü ve özel günleriniz için romantik masa düzeni, özel menü seçenekleri ve şık bir atmosfer sunarak unutulmaz anlar yaşamanızı sağlıyoruz.",
+    "imageUrl": "test",
+    "status": true,
+    "price": 3000
+  },
+  {
+    "title": "Özel Grup Yemekleri",
+    "description": "Arkadaş grupları ve aile yemekleri için geniş oturma alanı, özel menüler ve kaliteli servis ile keyifli ve konforlu bir yemek deneyimi sunuyoruz.",
+    "imageUrl": "test",
+    "status": true,
+    "price": 3500
+  },
+  {
+    "title": "Mezuniyet ve Kutlama Organizasyonu",
+    "description": "Mezuniyet, başarı ve özel kutlamalarınız için eğlenceli ve konforlu bir ortam, özel süslemeler ve zengin menü seçenekleri ile unutulmaz bir organizasyon gerçekleştiriyoruz.",
+    "imageUrl": "test",
+    "status": true,
+    "price": 4500
+  }
+]

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "description": "Yeni bir rezervasyon talebi oluşturuldu. 4 kişilik masa için onay bekleniyor.",
+    "iconUrl": "reservation-icon",
+    "notificationDate": "2026-03-03T09:15:22.000Z",
+    "isRead": true
+  },
+  {
+    "description": "Bir müşteri doğum günü organizasyonu hakkında bilgi talep etti.",
+    "iconUrl": "event-icon",
+    "notificationDate": "2026-03-03T10:42:11.000Z",
+    "isRead": true
+  },
+  {
+    "description": "İletişim formundan yeni bir mesaj alındı.",
+    "iconUrl": "message-icon",
+    "notificationDate": "2026-03-03T12:08:45.000Z",
+    "isRead": false
+  },
+  {
+    "description": "Bugün akşam için 2 kişilik rezervasyon onaylandı.",
+    "iconUrl": "check-icon",
+    "notificationDate": "2026-03-03T14:27:33.000Z",
+    "isRead": true
+  },
+  {
+    "description": "Menü fiyatları güncellendi. Yönetici panelinden kontrol edebilirsiniz.",
+    "iconUrl": "update-icon",
+    "notificationDate": "2026-03-03T16:55:09.000Z",
+    "isRead": false
+  }
+]

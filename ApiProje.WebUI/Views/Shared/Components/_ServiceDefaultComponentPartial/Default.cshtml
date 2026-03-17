@@ -1,0 +1,41 @@
+﻿@model List<ApiProje.WebUI.Dtos.ServiceDtos.ResultServiceDto>
+<section id="why-us" class="why-us section light-background">
+
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="why-box">
+                    <h3>Why Choose Yummy</h3>
+                    <p>
+                        At Yummy, we believe that dining is more than just eating — it is an experience to remember. Our chefs carefully select the freshest ingredients and transform them into delicious dishes crafted with passion and creativity.
+                        We prioritize quality, hygiene, and exceptional service to ensure every guest feels special. Whether you visit us for a quick meal or a celebration, Yummy offers a warm atmosphere, unforgettable flavors, and a commitment to excellence in every detail.
+                    </p>
+                    <div class="text-center">
+                        <a href="#" class="more-btn"><span>Learn More</span> <i class="bi bi-chevron-right"></i></a>
+                    </div>
+                </div>
+            </div><!-- End Why Box -->
+
+            <div class="col-lg-8 d-flex align-items-stretch">
+                <div class="row gy-4" data-aos="fade-up" data-aos-delay="200">
+
+                    @foreach(var item in Model)
+                    {
+                        <div class="col-xl-4">
+                            <div class="icon-box d-flex flex-column justify-content-center align-items-center">
+                                <i class="@item.IconUrl"></i>
+                                <h4>@item.Title</h4>
+                                <p>
+                                   @item.Description
+                                </p>
+                            </div>
+                        </div>
+                        <!-- End Icon Box -->
+                    }                  
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

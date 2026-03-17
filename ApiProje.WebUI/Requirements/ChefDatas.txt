@@ -1,0 +1,20 @@
+﻿[
+  {
+    "nameSurname": "Mehmet Arslan",
+    "title": "Baş Şef (Executive Chef)",
+    "description": "15 yılı aşkın mutfak deneyimi ile restoranımızın mutfak yönetimini üstlenen Mehmet Arslan, dünya mutfakları ve modern Türk mutfağı konusunda uzmandır. Özgün tarifleri ve yaratıcı sunumları ile misafirlerimize eşsiz bir gastronomi deneyimi sunmaktadır.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Ayşe Karaca",
+    "title": "Sous Chef",
+    "description": "Profesyonel kariyerine prestijli restoranlarda başlayan Ayşe Karaca, özellikle Akdeniz mutfağı ve özel soslar konusunda uzmanlaşmıştır. Lezzet dengesi ve estetik sunuma verdiği önem ile mutfağımıza değer katmaktadır.",
+    "imageUrl": "test"
+  },
+  {
+    "nameSurname": "Emre Yıldırım",
+    "title": "Pastane Şefi (Pastry Chef)",
+    "description": "Tatlı ve pastacılık alanında uzman olan Emre Yıldırım, modern ve klasik tatlıları yenilikçi dokunuşlarla sunmaktadır. Özel tarifleri ve yaratıcı sunumları ile misafirlerimizin yemek deneyimini unutulmaz hale getirmektedir.",
+    "imageUrl": "test"
+  }
+]
