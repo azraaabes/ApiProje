@@ -1,30 +1,30 @@
-🥗 Yummy | AI-Powered Restaurant Management System
+# 🥗 Yummy | AI-Powered Restaurant Management System
 Yummy, modern bir restoranın tüm ihtiyaçlarını karşılayan, yapay zeka entegrasyonuna sahip, dinamik ve kullanıcı dostu bir yönetim sistemidir. Proje, WebAPI ve WebUI olmak üzere iki ana katmandan oluşmakta ve Clean Architecture prensiplerine sadık kalarak geliştirilmiştir.
 <img width="1024" height="478" alt="image" src="https://github.com/user-attachments/assets/b58e2e1c-5d48-4cc2-b6cc-b50ebd46ddef" />
 
-🚀 Öne Çıkan Özellikler
-🤖 Yapay Zeka Entegrasyonları
+## 🚀 Öne Çıkan Özellikler
+### 🤖 Yapay Zeka Entegrasyonları
 OpenAI & Hugging Face: Müşterilerden gelen mesajların analiz edilmesi, toksik içerik kontrolü ve otomatik olumlu yanıt üretimi.
 
 AI Yemek Tarifi Önerileri: Kullanıcı etkileşimlerine göre yapay zeka destekli tarif önerileri.
 
 Claude UI Optimization: Anthropic Claude kullanılarak optimize edilmiş modern arayüz bileşenleri.
 
-📊 Dinamik Dashboard & Yönetim
+### 📊 Dinamik Dashboard & Yönetim
 Anlık İstatistikler: Toplam rezervasyon, müşteri sayısı ve artış oranlarının görselleştirilmesi.
 
 Rezervasyon Durum Grafiği: Chart.js veya benzeri kütüphanelerle rezervasyon trendlerinin analizi.
 
 SignalR: Rezervasyonlar ve mesajlar için gerçek zamanlı bildirimler ve anlık konuşma akışı.
 
-📋 Fonksiyonel Modüller
+### 📋 Fonksiyonel Modüller
 Grup Rezervasyon Yönetimi: Durum bazlı (Onaylandı, Beklemede, İptal) filtreleme ve yönetim.
 
 İletişim & Konum: Google Maps entegrasyonlu iletişim bilgileri yönetimi.
 
 Menü & Etkinlikler: Dinamik kategori bazlı menü listeleme ve etkinlik planlama.
 
-🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 Backend: ASP.NET Core 8.0 WebAPI
 
 Frontend: ASP.NET Core MVC (WebUI)
@@ -39,7 +39,7 @@ Real-Time: SignalR
 
 UI: Bootstrap 5, FontAwesome, Chart.js, View Components, DTOs
 
-📸 Proje Görselleri
+## 📸 Proje Görselleri
 <img width="1023" height="528" alt="image" src="https://github.com/user-attachments/assets/39a2531f-b385-40fb-8fdb-b6b9a3cb47f4" />
 
 <img width="1024" height="507" alt="image" src="https://github.com/user-attachments/assets/48e74691-061c-4a70-9c3b-3368d4d667e4" />
